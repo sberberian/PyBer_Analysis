@@ -6,7 +6,7 @@ The results below were developed for the ride-sharing company, Pyber, based on t
 
 ## Results
 
-![PyBer_fare_summary.png](C:\Users\saman\Class\PyBer_Analysis\analysis\PyBer_fare_summary.png)
+![PyBer_fare_summary](C:\Users\saman\Class\PyBer_Analysis\analysis\PyBer_fare_summary.png)
 
 From the graph above, it's evident that the rural fares appear to be the most stable but also the lowest. The suburban fares have the most progressive and incremental changes over time. Urban fares are marked by clear peaks and dips and they also have the most expensive trend line. Each city type does experience a peak towards the end of February though. 
 
